@@ -4,7 +4,6 @@ Desenvolvedor com foco em backend. Busco vagas de **backend ou fullstack**.
 
 ## Backend
 
-- **bioquest** *(em breve)*: API em TypeScript com Effect e PostgreSQL. Organizada em camadas com erros de domínio tipados, OpenAPI, testes E2E, testes de mutação (Stryker) e CI.
 - [**mwdx**](https://github.com/wenderu00/mwdx): monorepo TypeScript (CLI + SQLite/Drizzle + dashboard Next.js) que analisa meus repositórios. Os contratos em Zod geram os JSON Schemas, e os achados são reconciliados entre execuções.
 - [**familia_em_ritmo**](https://github.com/wenderu00/familia_em_ritmo): API Spring Boot / Java 17 com JPA e springdoc, organizada em application/domain/infra, com um DTO por caso de uso. O front é em Flutter.
 
